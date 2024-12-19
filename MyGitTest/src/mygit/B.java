@@ -1,9 +1,9 @@
 package mygit;
 
-public class A {
+public class B {
 
 	public static void main(String[] args) {
-		System.out.println("devB");
 		System.out.println("hello");
 	}
+
 }
